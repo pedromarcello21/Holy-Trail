@@ -92,4 +92,4 @@ while running:
 
 ## Conclusion
 
-Holy Trail is a project of mine at the Flatiron school that has both showcased my passion for retro gaming and allowed me to awcknowledge my Jesuit education. By following the installation instructions and understanding the game flow, you can enjoy playing and competing for high scores. Enjoy
+Holy Trail is a project of mine at the Flatiron school that has both showcased my passion for retro gaming and allowed me to awcknowledge my Jesuit education. By following the installation instructions and understanding the game flow, you can enjoy playing and competing for high scores. Enjoy!
