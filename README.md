@@ -90,6 +90,18 @@ while running:
     clock.tick(60)
 ```
 
+## Scores db 
+
+If you're installing Holy-Trail for the first time you may also need to install SQLite and the SQLite viewer extension: 
+
+```bash
+brew install sqlite3
+```
+
+https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer
+
+
+
 ## Conclusion
 
 Holy Trail is a project of mine at the Flatiron school that has both showcased my passion for retro gaming and allowed me to awcknowledge my Jesuit education. By following the installation instructions and understanding the game flow, you can enjoy playing and competing for high scores. Enjoy!
